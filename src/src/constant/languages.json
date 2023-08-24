@@ -1,0 +1,32 @@
+{
+  "en": {
+    "translation": {
+      "login": {
+        "title": "Welcome back!",
+        "text": "Enter your Credentials to access your account",
+        "emailLabel": "Email address",
+        "emailPlaceholder": "Enter your email",
+        "emailValidationMessage": "Must include @",
+        "passwordLabel": "Password",
+        "passwordPlaceholder": "Enter your password",
+        "passwordValidationMessage": "Length must be greated than 8",
+        "loginButton": "Login"
+      }
+    }
+  },
+  "ua": {
+    "translation": {
+      "login": {
+        "title": "Ласкаво просимо!",
+        "text": "Введіть облікові дані для доступу до облікового запису",
+        "emailLabel": "Пошта",
+        "emailPlaceholder": "Введіть пошту тут",
+        "emailValidationMessage": "Mає включати в себе @",
+        "passwordLabel": "Пароль",
+        "passwordPlaceholder": "Введіть пароль тут",
+        "passwordValidationMessage": "Довжина повинна бути жирною, ніж 8",
+        "loginButton": "Увійти"
+      }
+    }
+  }
+}
