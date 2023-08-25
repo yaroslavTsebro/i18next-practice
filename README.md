@@ -1,1 +1,1 @@
-#The project is aimed on using i18next, so dont have validation and another stuff, good validation i have in another project
+The project is aimed on using i18next.
